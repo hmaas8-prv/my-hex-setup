@@ -13,11 +13,12 @@ credentials, or private workplace material.
 - Hex channel: Stable
 - Installation method: Official managed Windows installer
 - Installed version: 3.4.0
-- Status: Installed and signature verified; first-run setup pending
+- Status: Installed, signature verified, and first-run setup complete
 
 ## Guides
 
 - [Windows installation](docs/windows-installation.md)
+- [Current sanitized setup](docs/current-setup.md)
 - [Hex overview](docs/overview.md)
 
 ## Privacy
