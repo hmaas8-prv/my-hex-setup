@@ -1,0 +1,47 @@
+# Secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+*credential*
+*secret*
+
+# Hex runtime authorization and process state
+local-api.json
+transform-trust.json
+personal-commands.json
+install.json
+current-version
+onboarding-*
+
+# Personal settings and retained content
+settings.json
+settings.json.unreadable-*
+history.json
+history-audio/
+meetings/
+opencode/
+logs/
+models/
+versions/
+bin/
+
+# Recordings, transcripts, diagnostics, and model artifacts
+*.wav
+*.mp3
+*.m4a
+*.aiff
+*.caf
+*.ndjson
+*.log
+*.gguf
+*.onnx
+*.safetensors
+*.dmp
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
