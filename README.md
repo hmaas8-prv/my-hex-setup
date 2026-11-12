@@ -41,5 +41,5 @@ No Hex source code or binaries are redistributed here.
 ## License
 
 Original material in this repository is available under the [MIT License](LICENSE).
-Hex itself is a separate upstream project under its own MIT license and
+Hex itself is a separate and distinct upstream project under its own MIT license and
 copyright notice.
